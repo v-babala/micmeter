@@ -6,10 +6,10 @@
 
 Measure your microphone input in **dBFS** with a live visual meter, peak readout, and keyboard-driven device selection — powered by FFmpeg.
 
-![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square&logo=windows)
-![Go](https://img.shields.io/badge/Go-1.22%2B-00ADD8?style=flat-square&logo=go)
-![FFmpeg](https://img.shields.io/badge/audio-FFmpeg-007808?style=flat-square&logo=ffmpeg)
-![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+[![Go](https://img.shields.io/badge/Go-1.22%2B-00ADD8?logo=go&logoColor=white)](https://go.dev)
+[![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-555)](#%EF%B8%8F-platform-support)
+[![ffmpeg](https://img.shields.io/badge/requires-ffmpeg-007808?logo=ffmpeg&logoColor=white)](https://ffmpeg.org)
+[![License](https://img.shields.io/badge/license-MIT-blue)](#-license)
 
 </div>
 
